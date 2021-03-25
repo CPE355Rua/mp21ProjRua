@@ -26,10 +26,12 @@ Phase II
 Table of Contents
 
 STT-RAM
+
 	- Architecture
 	- Application
 
 PCRAM
+
 	- Architecture
 	- Hybrid Technology of PCRAM
 		- PCM and STT-RAM Hybrid
@@ -37,6 +39,7 @@ PCRAM
 	- Application
 
 ReRAM
+
 	- Architecture
 	- Types of ReRAM
 		- OxRAM
