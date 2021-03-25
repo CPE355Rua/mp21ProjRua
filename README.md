@@ -22,6 +22,8 @@ https://academic.oup.com/nsr/article/5/4/577/4093905?login=true
 [3] Angelini C. “3 emerging memory technologies that will change how you handle big data”  Venture Beats (2019)
 https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/ 
 
+
+
 Phase II
 Table of Contents
 
