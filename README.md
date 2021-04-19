@@ -1,9 +1,10 @@
 Project Title: Newer Nonvolatile Solid-State Memory Technology
 
 Team members/position:
-Leader: Aquino, Shannon Dale
-Rapporteur: Casalme, Christian
-            Gucilatar, Narold Jayson
+	
+	Leader: Aquino, Shannon Dale
+	Rapporteur: Casalme, Christian
+		    Gucilatar, Narold Jayson
 
 Brief Description:
 
@@ -45,7 +46,9 @@ Table of Contents
 PHASE 3: Project Documentation
 
 Project Title: Newer Nonvolatile Solid-State Memory Technology 
+
 Team Members:
+	
 	Aquino, Shannon Dale 
 	Casalme, Christian
 	Gucilatar, Narold Jayson
