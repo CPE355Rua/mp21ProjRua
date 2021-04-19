@@ -12,13 +12,13 @@ Brief Description:
 
 Reference:
 
-[1] Market Study Report “Next generation non-volatile memory (NVM) technologies Market Trend, COVID-19 Impact, Current Industry Figures With Demand By Countries And Future Growth 2026” Just Positivity (2021)
+	[1] Market Study Report “Next generation non-volatile memory (NVM) technologies Market Trend, COVID-19 Impact, Current Industry Figures With Demand By Countries And Future Growth 2026” Just Positivity (2021)
 https://justpositivity.com/next-generation-non-volatile-memory-nvm-technologies-market-6962
-
-[2] Sun G., Zhao J., Poremba M., Xu C. & Xie Y. “Memory that never forgets: emerging nonvolatile memory and the implication for architecture design” National Science Review (2018)
+	
+	[2] Sun G., Zhao J., Poremba M., Xu C. & Xie Y. “Memory that never forgets: emerging nonvolatile memory and the implication for architecture design” National Science Review (2018)
 https://academic.oup.com/nsr/article/5/4/577/4093905?login=true 
 
-[3] Angelini C. “3 emerging memory technologies that will change how you handle big data”  Venture Beats (2019)
+	[3] Angelini C. “3 emerging memory technologies that will change how you handle big data”  Venture Beats (2019)
 https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/ 
 
 Phase II
