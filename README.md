@@ -20,16 +20,12 @@ TABLE OF CONTENTS
 	I. Introduction
 	II. Abstract
 	III.
-		a. STT-RAM
-			a.1. Architecture
-			a.2. Application
-
-		b. PCRAM
-			b.1. Architecture
-			b.2. Hybrid Technology of PCRAM
-				b.2.1. PCM and STT-RAM Hybrid
-				b.2.2. PCRAM and DRAM Hybrid
-			b.3. Application
+		a. STT-RAM Architecture & Application
+		b. PCRAM Architecture & Application
+			b.1. Hybrid Technology of PCRAM
+				b.1.1. PCM and STT-RAM Hybrid
+				b.1.2. PCRAM and DRAM Hybrid
+	
 
 		c. ReRAM
 			c.1. Architecture
