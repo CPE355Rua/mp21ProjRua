@@ -1,6 +1,6 @@
 # Project Title: Newer Nonvolatile Solid-State Memory Technology
 
-Team Members/Position:
+Team RUA
 -
 	Leader: Aquino, Shannon Dale
 	Rapporteur: Casalme, Christian
