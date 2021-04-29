@@ -14,8 +14,8 @@ Brief Description:
 	Nonvolatile memory is perfect for long retention of information.
 	
 		Considering the many advantages of using Nonvolatile memory, it is inevitable for the demand 
-	to increase in the coming years. In this research project we shall discuss emerging Nonvolatile Solid-state 
-	Technologies that are currently being used. 
+	to increase in the coming years. In this research project we shall discuss emerging Nonvolatile 
+	Solid-state Technologies that are currently being used. 
 	
 TABLE OF CONTENTS
 -
