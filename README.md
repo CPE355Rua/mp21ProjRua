@@ -15,10 +15,11 @@ Brief Description:
 		Considering the many advantages of using Nonvolatile memory, it is inevitable for the demand to increase in the coming 
 	years. In this research project we shall discuss emerging Nonvolatile Solid-state Technologies that are currently being used. 
 	
-Table of Contents
+TABLE OF CONTENTS
 -
 	I. Introduction
-	II. 
+	II. Abstract
+	III.
 		a. STT-RAM
 			a.1. Architecture
 			a.2. Application
@@ -37,7 +38,8 @@ Table of Contents
 				c.2.2. CBRAM
 			c.3. Application
 		
-	III. References
+	IV. References
+	V. Appendix
 
 Reference:
 -
