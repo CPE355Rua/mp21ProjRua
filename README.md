@@ -8,13 +8,13 @@ Team RUA
 
 Brief Description:
 -
-		Nonvolatile memory is a type of memory that can retain data even when power is turned off. Typically, 
-	it is used as secondary storage and long-term storage. Examples of Nonvolatile memory are computer hard disks 
-	and flash drives. Only when reading and writing data does it require power. Nonvolatile memory is perfect for 
-	long retention of information.
+		Nonvolatile memory is a type of memory that can retain data even when power is turned off. 
+	Typically, it is used as secondary storage and long-term storage. Examples of Nonvolatile memory are 
+	computer hard disks and flash drives. Only when reading and writing data does it require power. 
+	Nonvolatile memory is perfect for long retention of information.
 	
-		Considering the many advantages of using Nonvolatile memory, it is inevitable for the demand to 
-	increase in the coming years. In this research project we shall discuss emerging Nonvolatile Solid-state 
+		Considering the many advantages of using Nonvolatile memory, it is inevitable for the demand 
+	to increase in the coming years. In this research project we shall discuss emerging Nonvolatile Solid-state 
 	Technologies that are currently being used. 
 	
 TABLE OF CONTENTS
