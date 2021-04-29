@@ -53,5 +53,7 @@ Reference:
 
 	• Angelini C. “3 emerging memory technologies that will change how you handle big data”  Venture Beats (2019) https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/ 
 
+Work Assignments
+-
 
 
