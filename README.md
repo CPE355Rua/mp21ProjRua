@@ -14,24 +14,24 @@ Brief Description:
 Table of Contents
 -
 	I. Introduction
-	II.
-	a. STT-RAM
-		a.1. Architecture
-		a.2. Application
+	II. 
+		a. STT-RAM
+			a.1. Architecture
+			a.2. Application
 
-	b. PCRAM
-		b.1. Architecture
-		b.2. Hybrid Technology of PCRAM
-			b.2.1. PCM and STT-RAM Hybrid
-			b.2.2. PCRAM and DRAM Hybrid
-		b.3. Application
+		b. PCRAM
+			b.1. Architecture
+			b.2. Hybrid Technology of PCRAM
+				b.2.1. PCM and STT-RAM Hybrid
+				b.2.2. PCRAM and DRAM Hybrid
+			b.3. Application
 
-	c. ReRAM
-		c.1. Architecture
-		c.2. Types of ReRAM
-			c.2.1. OxRAM
-			c.2.2. CBRAM
-		c.3. Application
+		c. ReRAM
+			c.1. Architecture
+			c.2. Types of ReRAM
+				c.2.1. OxRAM
+				c.2.2. CBRAM
+			c.3. Application
 		
 	III. References
 
