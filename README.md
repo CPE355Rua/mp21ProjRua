@@ -1,5 +1,5 @@
-Project Title: Newer Nonvolatile Solid-State Memory Technology
-
+#Project Title: Newer Nonvolatile Solid-State Memory Technology
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Team members/position:
 	
 	Leader: Aquino, Shannon Dale
