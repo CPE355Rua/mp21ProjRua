@@ -1,19 +1,19 @@
 #Project Title: Newer Nonvolatile Solid-State Memory Technology
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Team members/position:
+
+Team Members/Position:
 -
 	Leader: Aquino, Shannon Dale
 	Rapporteur: Casalme, Christian
 		    Gucilatar, Narold Jayson
 
 Brief Description:
-
+-
 	Nonvolatile memory is a type of memory that can retain data even when power is turned off. Typically, it is used as secondary storage and long-term storage. Examples of Nonvolatile memory are computer hard disks and flash drives. Only when reading and writing data does it require power. Nonvolatile memory is perfect for long retention of information.
 	Considering the many advantages of using Nonvolatile memory, it is inevitable for the demand to increase in the coming years. In this research project we shall discuss emerging Nonvolatile Solid-state Technologies that are currently being used. 
-
-
+	
 Table of Contents
 -
+	I. Introduction
 	STT-RAM
 	- Architecture
 	- Application
