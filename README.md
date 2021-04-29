@@ -25,8 +25,6 @@ TABLE OF CONTENTS
 			b.1. Hybrid Technology of PCRAM
 				b.1.1. PCM and STT-RAM Hybrid
 				b.1.2. PCRAM and DRAM Hybrid
-	
-
 		c. ReRAM Architecture & Application
 			c.1. Types of ReRAM
 				c.1.1. OxRAM
