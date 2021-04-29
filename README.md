@@ -1,4 +1,4 @@
-#Project Title: Newer Nonvolatile Solid-State Memory Technology
+# Project Title: Newer Nonvolatile Solid-State Memory Technology
 
 Team Members/Position:
 -
