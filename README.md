@@ -27,12 +27,10 @@ TABLE OF CONTENTS
 				b.1.2. PCRAM and DRAM Hybrid
 	
 
-		c. ReRAM
-			c.1. Architecture
-			c.2. Types of ReRAM
-				c.2.1. OxRAM
-				c.2.2. CBRAM
-			c.3. Application
+		c. ReRAM Architecture & Application
+			c.1. Types of ReRAM
+				c.1.1. OxRAM
+				c.1.2. CBRAM
 		
 	IV. References
 	V. Appendix
